@@ -19,7 +19,7 @@ ans = []
 from darkflow.net.build import TFNet
 
 options = {"model": "cfg/yolo.cfg", 
-           "load": "/content/drive/My Drive/model/yolo.weights", 
+           "load": "/content/drive/My Drive/model /yolo.weights", 
            "threshold": 0.1, 
            "gpu": 1.0}
 
